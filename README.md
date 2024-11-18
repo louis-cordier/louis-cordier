@@ -1,6 +1,7 @@
 ## 🚀 About Me
 
-![Cover](./reseau-informatique-1024x683.jpeg)
+
+<img src="./reseau-informatique-1024x683.jpeg" width="400px" height="300px">
 
 My name is Louis Cordier.
 I am 26 years old and live between Marseille and Aix-en-Provence, France.
