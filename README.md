@@ -1,4 +1,30 @@
-## Hi there 👋
+
+## 🚀 About Me
+
+
+
+
+
+My name is Louis Cordier.
+I am 26 years old and live between Marseille and Aix-en-Provence, France.
+
+I have a bachelor degree in Geography and Land planning.
+
+I also have the first year of a master degree in Urbanism and urban planning.
+
+I recently decided to redirect to Information Technology (IT).
+
+I'm currently studying in the school LaPlateforme in Marseille,
+in the first year of a Bachelor degree in IT.
+
+It's my first year in this structure where I study programming.
+I learn informatic languages like HTML, CSS. 
+
+I also started learning Linux and virtual machines.
+
+I will choose a speciality late december and continue forward in 2025.
+
+You can contact me at : louis.cordier@laplateforme.io
 
 <!--
 **louis-cordier/louis-cordier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
