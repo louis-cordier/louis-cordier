@@ -20,7 +20,10 @@ I learn informatic languages like HTML, CSS.
 
 I also started learning Linux and virtual machines.
 
-I will choose a speciality late december and continue forward in 2025.
+I have choosen a speciality in late december : I am now a student in software development.
+
+I am looking for a work-study program, in my field of specialty (software development).
+If possible, it would start in September 2025, ideally in Aix, Marseille or nearby areas.
 
 You can contact me at : louis.cordier@laplateforme.io
 
